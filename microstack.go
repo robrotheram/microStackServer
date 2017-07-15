@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"test/app"
-	"test/app/Background"
-	"test/app/Config"
+	"microStackServer/app"
+	"microStackServer/app/Background"
+	"microStackServer/app/Config"
 )
 
 var (

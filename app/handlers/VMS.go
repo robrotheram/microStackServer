@@ -17,8 +17,8 @@ import (
 	"time"
 	//	"log"
 
-	"test/app/Background"
-	"test/app/Config"
+	"microStackServer/app/Background"
+	"microStackServer/app/Config"
 
 	libvirt "github.com/libvirt/libvirt-go"
 	libvirtxml "github.com/libvirt/libvirt-go-xml"
